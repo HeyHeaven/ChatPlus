@@ -84,12 +84,8 @@ pip install -r requirements.txt
 
 4. **Run the application**
 ```bash
-streamlit run enterprise_app.py
+streamlit run app.py
 ```
-
-### **Demo Credentials**
-- **Email**: demo@enterprise.com
-- **Password**: demo123
 
 ## 📊 **Features Overview**
 
